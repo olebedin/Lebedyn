@@ -1,4 +1,6 @@
 Ich weiss nicht was soll es bedeuten. That is OK
 Background color change is required
 
-need the aapproval
+need the approval
+
+change cannot be approved as the background color is incorrect
