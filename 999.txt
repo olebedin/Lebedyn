@@ -3,3 +3,6 @@ change backgrount color
 remove line 59
 change marginss to 12
 
+introduce changes to line 23
+fix colors
+change styles
