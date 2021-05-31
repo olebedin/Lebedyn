@@ -1,2 +1,3 @@
 To be or not to be - that is the question. That is OK!!!
 Test file is prepared for check
+Fonts ang margins to be changed to the spec
